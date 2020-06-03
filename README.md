@@ -1,4 +1,4 @@
-# RDBCnew
+# RJDBCnew
 
 R JDBC access for Oracle ADW
 
