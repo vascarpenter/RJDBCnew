@@ -8,7 +8,7 @@ Restrictions:
   your wallet position is sticked to /opt/oracle/network/admin
 
 
-[Binary Download](https://github.com/vascarpenter/RDBCnew/releases)
+[Binary Download](https://github.com/vascarpenter/RJDBCnew/releases)
 
 How to use it in R:
 
